@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 25 Sep 2015 16:12:01 +0000
+Source: manokwari-theme-greeter
+Binary: manokwari-theme-greeter
+Architecture: source all
+Version: 2.8edusantara1
+Distribution: bintuni
+Urgency: medium
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Changed-By: suprayogi <azep291@gmail.com>
+Description: 
+ manokwari-theme-greeter - BlankOn login screen
+Changes: 
+ manokwari-theme-greeter (2.8edusantara1) bintuni; urgency=medium
+ .
+   * Add new image
+Checksums-Sha1: 
+ 33214d4047916110a6094138b12d2d20bb4870e9 724 manokwari-theme-greeter_2.8edusantara1.dsc
+ 7eba0f912d1e6d88ba952a04dac60c231c2f91a6 874328 manokwari-theme-greeter_2.8edusantara1.tar.xz
+ 552b3d61f5ef2c79fe6ab254e73443ecb238ae20 875536 manokwari-theme-greeter_2.8edusantara1_all.deb
+Checksums-Sha256: 
+ 7d38d2fc28271775cd8988e38f0eaf36bcc12615692717b7b329fd371cfbb2a8 724 manokwari-theme-greeter_2.8edusantara1.dsc
+ b6922662ec488ec39d626f1f44b88537a0375981c08e0abce0d71731c833a65a 874328 manokwari-theme-greeter_2.8edusantara1.tar.xz
+ 0d9b5b39881bb78a6c74e3c49a0165c2c6e4036b351ec49292ff3ef0efb61a36 875536 manokwari-theme-greeter_2.8edusantara1_all.deb
+Files: 
+ 00f087fdc5fc283f6dd001ff0acb9901 724 misc optional manokwari-theme-greeter_2.8edusantara1.dsc
+ e1a89af5d8342c9df9da97182d1c3c9a 874328 misc optional manokwari-theme-greeter_2.8edusantara1.tar.xz
+ 1c144bd102d2af230c2eb9c845ac782b 875536 misc optional manokwari-theme-greeter_2.8edusantara1_all.deb
+Original-Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>

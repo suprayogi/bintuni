@@ -1,0 +1,24 @@
+#! /bin/sh
+set -e
+
+case "$1" in
+  configure)
+  if [ -f /usr/lib/blankon-installer/system/index.html ]; then
+    dpkg-divert --add --local --divert /usr/lib/blankon-installer/system/index.html.divert --rename /usr/lib/blankon-installer/system/index.html
+    cp -a /usr/lib/blankon-installer/system/edusantara-index.html /usr/lib/blankon-installer/system/index.html
+  fi
+  if [ -f /usr/lib/blankon-installer/system/logo.png ]; then
+    dpkg-divert --add --local --divert /usr/lib/blankon-installer/system/logo.png.divert --rename /usr/lib/blankon-installer/system/logo.png
+    cp -a /usr/lib/blankon-installer/system/edusantara-logo.png /usr/lib/blankon-installer/system/logo.png
+  fi
+  if [ -f /usr/share/applications/blankon-installer.desktop ]; then
+    dpkg-divert --add --local --divert /usr/share/applications/blankon-installer.desktop.divert --rename /usr/share/applications/blankon-installer.desktop
+    cp -a /usr/share/applications/edusantara-installer.desktop.in /usr/share/applications/blankon-installer.desktop
+  fi
+#  if [ -f /usr/share/locale/id/LC_MESSAGES/blankon-installer.mo ]; then
+ #   dpkg-divert --add --local --divert /usr/share/locale/id/LC_MESSAGES/blankon-installer.mo.divert --rename /usr/share/locale/id/LC_MESSAGES/blankon-installer.mo
+  #  cp -a /usr/share/locale/id/LC_MESSAGES/edusantara-installer.mo /usr/share/locale/id/LC_MESSAGES/blankon-installer.mo
+  #fi
+esac
+
+exit 0

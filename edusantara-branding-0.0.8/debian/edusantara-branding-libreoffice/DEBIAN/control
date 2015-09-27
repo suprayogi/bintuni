@@ -1,0 +1,11 @@
+Package: edusantara-branding-libreoffice
+Source: edusantara-branding
+Version: 0.0.8
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Installed-Size: 173
+Depends: libreoffice-core
+Section: gnome
+Priority: optional
+Description: Rebranding LibreOffice
+ Rebranding Libreoffice to Edusantara new distro

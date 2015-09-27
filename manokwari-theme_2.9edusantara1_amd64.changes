@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 25 Sep 2015 16:09:59 +0000
+Source: manokwari-theme
+Binary: manokwari-theme
+Architecture: source all
+Version: 2.9edusantara1
+Distribution: bintuni
+Urgency: medium
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Changed-By: suprayogi <azep291@gmail.com>
+Description: 
+ manokwari-theme - Manokwari Theme like BlankOn
+Changes: 
+ manokwari-theme (2.9edusantara1) bintuni; urgency=medium
+ .
+   * Repackage
+Checksums-Sha1: 
+ 4def44935438b08e712b7d52c513f8a876de5a47 669 manokwari-theme_2.9edusantara1.dsc
+ 9e50036a62d14687ad9e073fc2bea25b0cb5a548 304816 manokwari-theme_2.9edusantara1.tar.xz
+ 56e8bad9ad50e590ae511f35d2b7bfad49039a57 309550 manokwari-theme_2.9edusantara1_all.deb
+Checksums-Sha256: 
+ b7e7493a2c8e8b38ac2ec7fd6757a5217cf9f2bfd2d40fcdcd284924bcdac2f0 669 manokwari-theme_2.9edusantara1.dsc
+ 945f6c8711376e0ccd9af7b05a4180515d8c4b97a189b071a087fd85be8925b8 304816 manokwari-theme_2.9edusantara1.tar.xz
+ 8393ee1eaa3dc28aabcf0e83d543766166cb6fd61cdfaa47a9b53d7f1672a7e1 309550 manokwari-theme_2.9edusantara1_all.deb
+Files: 
+ f0908606cfd7bd807de42b4780374fe2 669 gnome optional manokwari-theme_2.9edusantara1.dsc
+ e831d91a0043b504f2e6436c3b9f15f0 304816 gnome optional manokwari-theme_2.9edusantara1.tar.xz
+ 3aefe3d2d02add3e66d41fe0fe277f02 309550 gnome optional manokwari-theme_2.9edusantara1_all.deb

@@ -1,0 +1,40 @@
+Format: 1.8
+Date: Sun, 20 Sep 2015 15:47:57 +0000
+Source: edusantara-branding
+Binary: edusantara-branding-edusantara-installer edusantara-branding-gimp edusantara-branding-libreoffice edusantara-branding-inkscape
+Architecture: source all
+Version: 0.0.8
+Distribution: bintuni
+Urgency: medium
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Changed-By: suprayogi <azep291@gmail.com>
+Description: 
+ edusantara-branding-edusantara-installer - Rebranding Edusantara Installer
+ edusantara-branding-gimp - Rebranding GIMP
+ edusantara-branding-inkscape - Rebranding Inkscape
+ edusantara-branding-libreoffice - Rebranding LibreOffice
+Changes: 
+ edusantara-branding (0.0.8) bintuni; urgency=medium
+ .
+   * Replace with new splash screens
+Checksums-Sha1: 
+ efdcf830522f8d83cb5965e2524e2dccc2143d73 868 edusantara-branding_0.0.8.dsc
+ 0c9f5af627311f1129661a618f842b5c0e74c9a7 290062 edusantara-branding_0.0.8.tar.gz
+ 1e3646b859663c0664061367505f6fbe46dcc2bb 66730 edusantara-branding-edusantara-installer_0.0.8_all.deb
+ 17d0cc7c212105f69f525315c227491397cf60c2 41898 edusantara-branding-gimp_0.0.8_all.deb
+ ae883efa640e2ea24cd5b55359147fdc7ca40275 60782 edusantara-branding-libreoffice_0.0.8_all.deb
+ 83d0c65a800148735a2a7c2e7d535e5818051d34 52690 edusantara-branding-inkscape_0.0.8_all.deb
+Checksums-Sha256: 
+ e303c73ff22ed052ca0f6efe56ee363bfd2f42f5f09d10242105381119f01ae4 868 edusantara-branding_0.0.8.dsc
+ 7dd6e4368734afe34099b57a26d8fca34528b2efecd1c75faa7328238a120095 290062 edusantara-branding_0.0.8.tar.gz
+ 2ebbd515b22a6dc3a4c3322f266a429f13b79abc86a6034f8754085b68ab6906 66730 edusantara-branding-edusantara-installer_0.0.8_all.deb
+ 1ca2ac3d9315fb7d865dd13800d59a18ba54ff1004ae0313611726de4157c8a9 41898 edusantara-branding-gimp_0.0.8_all.deb
+ 49cc0f7c53b96eda4ae5515abad67ad605def8b4b232ddfed192151327c6cf0f 60782 edusantara-branding-libreoffice_0.0.8_all.deb
+ acca4aff96fc04dfd7dcb6fc1881883b4a95585823cc551fed2c300417717d3b 52690 edusantara-branding-inkscape_0.0.8_all.deb
+Files: 
+ 37b99822bb1623526f0ac52305af3a9d 868 gnome optional edusantara-branding_0.0.8.dsc
+ 8f815a8d028079f67dbe7798e3eb102c 290062 gnome optional edusantara-branding_0.0.8.tar.gz
+ 7e705ae09e2928ffabada00d8ddb3586 66730 gnome optional edusantara-branding-edusantara-installer_0.0.8_all.deb
+ 108b07c45f69f837f77e0cf7951426c3 41898 gnome optional edusantara-branding-gimp_0.0.8_all.deb
+ bc9150444a48f2fc8149327613ed88fd 60782 gnome optional edusantara-branding-libreoffice_0.0.8_all.deb
+ df19c39e5a804fa783a27d4342a7c5e3 52690 gnome optional edusantara-branding-inkscape_0.0.8_all.deb

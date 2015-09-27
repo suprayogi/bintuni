@@ -1,0 +1,51 @@
+edusantara-branding (0.0.8) bintuni; urgency=medium
+
+  * Replace with new splash screens 
+
+ -- suprayogi <azep291@gmail.com>  Sun, 20 Sep 2015 15:47:57 +0000
+
+edusantara-branding (0.0.7) anambas; urgency=medium
+
+  * edusantara-branding-blankon-installler drop *.mo
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 24 Aug 2014 23:06:38 +0700
+
+edusantara-branding (0.0.6) anambas; urgency=low
+
+  * Added branding :
+    - Gimp
+    - Inkscape
+    - Libreoffice
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 21 Aug 2014 21:21:12 +0700
+
+edusantara-branding (0.0.5) anambas; urgency=low
+
+  * Fix name 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 20 Aug 2014 20:53:18 +0700
+
+edusantara-branding (0.0.4) anambas; urgency=medium
+
+  * Fix name to edusantara-branding-blankon-installer.*
+  * Fix path installer
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 20 Aug 2014 20:25:13 +0700
+
+edusantara-branding (0.0.3) anambas; urgency=low
+
+  * Added: Branding Locale
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 20 Aug 2014 00:01:38 +0700
+
+edusantara-branding (0.0.2) anambas; urgency=low
+
+  * Changes: Name edusantara to BlankOn
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 17 Aug 2014 23:21:40 +0700
+
+edusantara-branding (0.0.1) anambas; urgency=low
+
+  * Initial Release
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sat, 16 Aug 2014 23:21:40 +0700

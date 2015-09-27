@@ -1,0 +1,11 @@
+Package: edusantara-branding-inkscape
+Source: edusantara-branding
+Version: 0.0.8
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Installed-Size: 99
+Depends: inkscape
+Section: gnome
+Priority: optional
+Description: Rebranding Inkscape
+ Rebranding Inkscape to Edusantara new distro

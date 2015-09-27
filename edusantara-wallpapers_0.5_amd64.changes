@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 16 Sep 2015 09:04:07 +0000
+Source: edusantara-wallpapers
+Binary: edusantara-wallpapers edusantara-wallpapers-bintuni
+Architecture: source all
+Version: 0.5
+Distribution: bintuni
+Urgency: medium
+Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Changed-By: suprayogi <azep291@gmail.com>
+Description: 
+ edusantara-wallpapers - Edusantara Wallpapers
+ edusantara-wallpapers-bintuni - Edusantara Bintuni Wallpapers
+Changes: 
+ edusantara-wallpapers (0.5) bintuni; urgency=medium
+ .
+   * Replace with new wallpapers
+Checksums-Sha1: 
+ 3596970ba1ac42dd2eda7239ae847f10fdd74804 755 edusantara-wallpapers_0.5.dsc
+ 45a1ec91c4a03385aa0b834d990b3dc955cf4486 3978941 edusantara-wallpapers_0.5.tar.gz
+ d9a430fa3e1e67ad882bbc93437cb5400ea44e83 2562 edusantara-wallpapers_0.5_all.deb
+ bd93b0cd1fdf7b8a52145a34a16eb0a48087a669 1219296 edusantara-wallpapers-bintuni_0.5_all.deb
+Checksums-Sha256: 
+ 5153422a72d4c3bd0c9b269e8f294649a38e1bcad0c77d71f69c4833a68b5c8a 755 edusantara-wallpapers_0.5.dsc
+ 9b30c2eeda26d9a8dbbb62403fcdeba42f7486881b130e7bab532dd928113829 3978941 edusantara-wallpapers_0.5.tar.gz
+ 7d051fc83ce147dc1cd74cff03e4abec16818197c3a3a68367bb67a4f5092d5b 2562 edusantara-wallpapers_0.5_all.deb
+ c7e160cc1ce013baaeded910c2cb0b0ac993cd6d080ac241cd43312a9ae58a3f 1219296 edusantara-wallpapers-bintuni_0.5_all.deb
+Files: 
+ 8e02bbd3a6b9bb4700695813a821913f 755 x11 optional edusantara-wallpapers_0.5.dsc
+ 84e5ac70afa604bfda201aa810cbc3e2 3978941 x11 optional edusantara-wallpapers_0.5.tar.gz
+ 0fc9ab4050d77b8b92d5983ecdc0ac86 2562 metapackages optional edusantara-wallpapers_0.5_all.deb
+ 810d1afedd55a0ca34660fa77e5457b4 1219296 x11 optional edusantara-wallpapers-bintuni_0.5_all.deb

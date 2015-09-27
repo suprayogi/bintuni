@@ -1,0 +1,11 @@
+Package: edusantara-branding-edusantara-installer
+Source: edusantara-branding
+Version: 0.0.8
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Installed-Size: 117
+Depends: blankon-installer
+Section: gnome
+Priority: optional
+Description: Rebranding Edusantara Installer
+ Rebranding Edusantara Installer to Edusantara Installer new distro

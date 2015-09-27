@@ -1,0 +1,11 @@
+Package: edusantara-branding-gimp
+Source: edusantara-branding
+Version: 0.0.8
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Installed-Size: 77
+Depends: gimp
+Section: gnome
+Priority: optional
+Description: Rebranding GIMP
+ Rebranding Gimp to Edusantara new distro

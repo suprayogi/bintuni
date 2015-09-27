@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Fri, 25 Sep 2015 15:14:59 +0000
+Source: manokwari
+Binary: manokwari
+Architecture: source amd64
+Version: 0.2.1.78edusantara1
+Distribution: bintuni
+Urgency: medium
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Changed-By: suprayogi <azep291@gmail.com>
+Description: 
+ manokwari  - Manokwari Desktop
+Changes: 
+ manokwari (0.2.1.78edusantara1) bintuni; urgency=medium
+ .
+   * Customize CSS
+Checksums-Sha1: 
+ 250454791ee02bf2132ead05e9a6e3885a2d0447 1010 manokwari_0.2.1.78edusantara1.dsc
+ 6469e4e8f9d1d74be1db8af58ae204779d42bde5 1280024 manokwari_0.2.1.78edusantara1.tar.xz
+ a3ff978c8f683e70c3ead4557aba61a3eb855c52 957166 manokwari_0.2.1.78edusantara1_amd64.deb
+Checksums-Sha256: 
+ 3cf5e1257eabfa28615b39d486ea7ac919a2971ffea5fa0d90b1363a32b0ff7d 1010 manokwari_0.2.1.78edusantara1.dsc
+ 2742cb74ce4707598356e46866a2b988c1e115ee67f24059e16f240fc9610b29 1280024 manokwari_0.2.1.78edusantara1.tar.xz
+ 1878bf7cc87d00f151cb76eb84373152f5192c6787a2202ab1553e4e22515fe6 957166 manokwari_0.2.1.78edusantara1_amd64.deb
+Files: 
+ eb90f37b564d8898d9240f72011a93ca 1010 gnome extra manokwari_0.2.1.78edusantara1.dsc
+ 78b89a055c0015c9b9db2ccaf1ec07b9 1280024 gnome extra manokwari_0.2.1.78edusantara1.tar.xz
+ 36b71e485ffeb2894f24dd78eda0bda0 957166 gnome extra manokwari_0.2.1.78edusantara1_amd64.deb

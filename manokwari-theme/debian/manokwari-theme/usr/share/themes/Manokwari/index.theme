@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Manokwari
+Comment=yet another Manokwari clone theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Manokwari
+MetacityTheme=Manokwari
+
+ButtonLayout=minimize,maximize,close:

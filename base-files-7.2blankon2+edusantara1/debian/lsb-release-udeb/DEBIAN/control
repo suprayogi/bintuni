@@ -1,0 +1,10 @@
+Package: lsb-release-udeb
+Source: base-files
+Version: 7.2blankon2+edusantara1
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Installed-Size: 13
+Section: debian-installer
+Priority: extra
+Description: LSB release information
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

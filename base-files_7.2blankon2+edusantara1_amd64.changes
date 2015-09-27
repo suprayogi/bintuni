@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Fri, 25 Sep 2015 17:18:33 +0000
+Source: base-files
+Binary: base-files lsb-release-udeb
+Architecture: source all amd64
+Version: 7.2blankon2+edusantara1
+Distribution: bintuni
+Urgency: medium
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Changed-By: suprayogi <azep291@gmail.com>
+Description: 
+ base-files - Debian base system miscellaneous files
+ lsb-release-udeb - LSB release information
+Changes: 
+ base-files (7.2blankon2+edusantara1) bintuni; urgency=medium
+ .
+   * New codename release
+Checksums-Sha1: 
+ dd24bc4e2355a08ea72ba2df63b82848ce9fc9e4 696 base-files_7.2blankon2+edusantara1.dsc
+ 088b4d44d123a76ba0b0e8ab6e5468061bdf7bb4 52072 base-files_7.2blankon2+edusantara1.tar.xz
+ fffd471991588290a815843ad72e4274ab895832 842 lsb-release-udeb_7.2blankon2+edusantara1_all.udeb
+ 997424548912d0fcc5be7c024d11aa9139eb09dc 55822 base-files_7.2blankon2+edusantara1_amd64.deb
+Checksums-Sha256: 
+ 7790e7fc9b866b76cfd011bcebbaf2c2cc118200a5f36afba22ddf7e7b8f9ad8 696 base-files_7.2blankon2+edusantara1.dsc
+ 8e67ff8f2e4f23ac97f012ebf0dacc7928ef4d79d0d782e082db78f1f3580b3b 52072 base-files_7.2blankon2+edusantara1.tar.xz
+ 2a368a430c65f91b010212bde98169931ad42b1cb6e07f1151d953e2029d9f5f 842 lsb-release-udeb_7.2blankon2+edusantara1_all.udeb
+ 2a39ec3e31dd97a2d7b447857885696350a4c6b1abad60b7c1d36a57876313ef 55822 base-files_7.2blankon2+edusantara1_amd64.deb
+Files: 
+ 89401261803988656ae0fb5f69ceea9a 696 admin required base-files_7.2blankon2+edusantara1.dsc
+ ce0906503c80c4d4ba95d0786e9348e8 52072 admin required base-files_7.2blankon2+edusantara1.tar.xz
+ fdd7d673e77a001384ba1462ac1e2185 842 debian-installer extra lsb-release-udeb_7.2blankon2+edusantara1_all.udeb
+ b0563dfb31dbffccd17b9824cb65b1aa 55822 admin required base-files_7.2blankon2+edusantara1_amd64.deb
+Original-Maintainer: Santiago Vila <sanvila@debian.org>

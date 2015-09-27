@@ -1,0 +1,30 @@
+Source: edusantara-branding
+Priority: optional
+Section: gnome
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Standards-Version: 3.9.5
+Build-Depends: debhelper, cdbs, coreutils
+
+Package: edusantara-branding-edusantara-installer
+Architecture: all
+Depends: ${shlibs:Depends}, blankon-installer
+Description: Rebranding Edusantara Installer
+	Rebranding Edusantara Installer to Edusantara Installer new distro
+
+Package: edusantara-branding-gimp
+Architecture: all
+Depends: ${shlibs:Depends}, gimp
+Description: Rebranding GIMP
+	Rebranding Gimp to Edusantara new distro
+
+Package: edusantara-branding-libreoffice
+Architecture: all
+Depends: ${shlibs:Depends}, libreoffice-core
+Description: Rebranding LibreOffice
+	Rebranding Libreoffice to Edusantara new distro
+
+Package: edusantara-branding-inkscape
+Architecture: all
+Depends: ${shlibs:Depends}, inkscape
+Description: Rebranding Inkscape
+	Rebranding Inkscape to Edusantara new distro

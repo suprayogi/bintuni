@@ -1,0 +1,10 @@
+Package: manokwari-theme
+Version: 2.9edusantara1
+Architecture: all
+Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Installed-Size: 1035
+Depends: gtk3-engines-unico, gtk2-engines-murrine
+Section: gnome
+Priority: optional
+Description: Manokwari Theme like BlankOn
+ Manokwari theme BlankOn
